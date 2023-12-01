@@ -10,7 +10,7 @@ import { useBirthDay, useWindowSize } from "../../../hooks";
 
 const NavbarFullMenu = ({ theme, lr }) => {
   const { width, height } = useWindowSize();
-  const { isBirthday } = useBirthDay("november", 27);
+  const { isBirthday } = useBirthDay("June", 24);
 
   React.useEffect(() => {
     handleFullScreenNavbar();
@@ -35,7 +35,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
                   <img src={`${appData.lightLogo}`} alt="logo" />
                 )
               ) : (
-                <h6 className="portfolio-logo">PRINCE NWEKE</h6>
+                <h6 className="portfolio-logo">LEPE PAGE</h6>
               )}
             </Link>
           </div>
@@ -122,20 +122,19 @@ const NavbarFullMenu = ({ theme, lr }) => {
               <div className="cont-info">
                 <div className="item">
                   <h6>Phone :</h6>
-                  {/* <a href="tel:+2349024847299"> <p>+234 902 484 7299</p></a> <br /> */}
-                  <a href="tel:+2347037130120">
-                    <p>+234 703 713 0120</p>
+                  <a href="tel:++447448354050">
+                    <p>+44 744 835 4050</p>
                   </a>
                 </div>
                 <div className="item">
                   <h6>Location :</h6>
-                  <p>Lagos, Nigeria</p>
+                  <p>London, United kingdom</p>
                 </div>
                 <div className="item">
                   <h6>Email :</h6>
                   <p>
-                    <a href="mailto:Princeagezinweke@gmail.com">
-                      Princeagezinweke@gmail.com
+                    <a href="mailto:emmanuel.philipel@yahoo.com">
+                      emmanuel.philipel@yahoo.com
                     </a>
                   </p>
                 </div>
