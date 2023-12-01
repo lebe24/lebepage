@@ -138,28 +138,28 @@ const ContactWithMap = () => {
                 </h3>
                 <div className="item mb-40">
                   <h5>
-                    <a href="mailto:princeagezinweke@gmail.com">
-                      Princeagezinweke@gmail.com
+                    <a href="mailto:emmanuel.philipel@yahoo.com">
+                      emmanuel.philipel@yahoo.com
                     </a>
                   </h5>
                   <h5>
-                    <a href="tel:+2349024847299">
-                      (+234) 902 484 7299
+                    <a href="tel:+447448354050">
+                      (+44) 744 835 4050
                     </a>
                   </h5>
                 </div>
 
                 <div className="social mt-50">
-                  <a target="_blank" rel="noreferrer" href="https://github.com/starprince7/" className="icon">
+                  <a target="_blank" rel="noreferrer" href="https://github.com/lebe24" className="icon">
                     <i className="fab fa-github"></i>
                   </a>
-                  <a href="https://www.linkedin.com/in/prince-nweke-295a5b191/" className="icon">
+                  <a href="https://www.linkedin.com/in/emmanuelphilipel" className="icon">
                     <i className="fab fa-linkedin"></i>
                   </a>
-                  <a href="https://twitter.com/starprince_dev" className="icon">
-                    <i className="fab fa-twitter"></i>
+                  <a href="https://twitter.com/emmanuellebe24" className="icon">
+                    <i className="fab fa-x"></i>
                   </a>
-                  <a href="https://www.instagram.com/starprince_dev/" className="icon">
+                  <a href="https://www.instagram.com/" className="icon">
                     <i className="fab fa-instagram"></i>
                   </a>
                 </div>
@@ -168,7 +168,7 @@ const ContactWithMap = () => {
           </div>
         </div>
       </section>
-      <div className="map" id="ieatmaps">
+      {/* <div className="map" id="ieatmaps">
         <iframe
           style={{ border: 0 }}
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253682.45932571165!2d3.143870718242269!3d6.548376812166327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8b2ae68280c1%3A0xdc9e87a367c3d9cb!2sLagos!5e0!3m2!1sen!2sng!4v1658637704491!5m2!1sen!2sng"
@@ -178,13 +178,13 @@ const ContactWithMap = () => {
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
         ></iframe>
-      </div>
+      </div> */}
 
       <footer className="footer-half sub-bg">
         <div className="container">
           <div className="copyrights text-center mt-0">
             <p>
-              © 2022 - {new Date().getFullYear()} <a href="#0" className="portfolio-logo-footer"> PRINCE NWEKE</a>
+              © 2023 - {new Date().getFullYear()} <a href="#0" className="portfolio-logo-footer"> LEBE PAGE</a>
             </p>
           </div>
         </div>
