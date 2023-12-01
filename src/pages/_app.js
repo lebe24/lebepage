@@ -28,7 +28,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Prince Nweke</title>
+        <title>Lebepage</title>
         <link rel="icon" href="/img/favicon.ico" />
       </Head>
       <Cursor />

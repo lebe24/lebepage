@@ -15,25 +15,25 @@ class MyDocument extends Document {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="keywords"
-            content="Prince Nweke, starprince, dev_starprince, @dev_starprince, Starprince, prince, nweke, prince nweke, javascript developer, software developer, software engineer, fullstack, developer"
+            content="lebepage, starprince, dev_starprince, @dev_starprince, blockchain, Emmanuel, nweke, software Developer, javascript developer, software developer, software engineer, fullstack, developer"
           />
           <meta
             name="description"
-            content="Prince Nweke is an accomplished software engineer
-            based in Lagos, Nigeria. He specialises in web
-            development and standard practices with an emphasis on
+            content="Lebe Amadikwa is an accomplished software engineer
+            based in London, United Kingdom. He specialises in web
+            and mobile development using standard practices with an emphasis on
             offering practical solutions to people and small
             enterprises."
           />
-          <meta name="author" content="Prince Nweke A." />
-          <meta name="og:title" content="Prince Nweke Software developer" />
+          <meta name="author" content="Emmanuel Amadikwa L." />
+          <meta name="og:title" content="Emmanuel Amadikwa Software developer" />
           <meta name="og:type" content="website" />
-          <meta name="og:site_name" content="princenweke" />
+          <meta name="og:site_name" content="lebepage" />
           <meta
             name="og:description"
-            content="Prince Nweke is an accomplished software engineer
-            based in Lagos, Nigeria. He specialises in web
-            development and standard practices with an emphasis on
+            content="Lebe Amadikwa is an accomplished software engineer
+            based in London, United Kingdom. He specialises in web
+            and mobile development using standard practices with an emphasis on
             offering practical solutions to people and small
             enterprises."
           />
@@ -42,17 +42,17 @@ class MyDocument extends Document {
             content="https://res.cloudinary.com/starprince-dev/image/upload/w_700/v1688904351/princenweke.com/prince_white_bg_siqub6.jpg"
           />
           <meta name="twitter:card" content="summary_large_image" /> {/* Specifies the type of card for Twitter */}
-          <meta name="twitter:site" content="@dev_starprince" /> {/* Replace with your Twitter handle */}
-          <meta name="twitter:title" content="Prince Nweke Software developer" />
+          <meta name="twitter:site" content="@emmanuellebe24" /> {/* Replace with your Twitter handle */}
+          <meta name="twitter:title" content="Emmanuel lebe Amadikwa Software developer" />
           <meta
             name="twitter:description"
-            content="Prince Nweke is an accomplished software engineer based in Lagos, Nigeria. He specialises in web development and standard practices with an emphasis on offering practical solutions to people and small enterprises."
+            content="Lebe Amadikwa is an accomplished software engineer based in London, United Kingdom. He specialises in web and mobile development using standard practices with an emphasis on offering practical solutions to people and small enterprises.."
           />
           <meta
             name="twitter:image"
             content="https://res.cloudinary.com/starprince-dev/image/upload/w_700/v1688904351/princenweke.com/prince_white_bg_siqub6.jpg"
           />
-          <link rel="canonical" href="https://www.princenweke.com/" />
+          <link rel="canonical" href="https://lebepage.vercel.app/" />
           <link rel="shortcut icon" href="/img/favicon.ico" />
           {/* Google Fonts */}
           <link
