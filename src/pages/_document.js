@@ -48,10 +48,10 @@ class MyDocument extends Document {
             name="twitter:description"
             content="Lebe Amadikwa is an accomplished software engineer based in London, United Kingdom. He specialises in web and mobile development using standard practices with an emphasis on offering practical solutions to people and small enterprises.."
           />
-          <meta
+          {/* <meta
             name="twitter:image"
             content="https://res.cloudinary.com/starprince-dev/image/upload/w_700/v1688904351/princenweke.com/prince_white_bg_siqub6.jpg"
-          />
+          /> */}
           <link rel="canonical" href="https://lebepage.vercel.app/" />
           <link rel="shortcut icon" href="/img/favicon.ico" />
           {/* Google Fonts */}

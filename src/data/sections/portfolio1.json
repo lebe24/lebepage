@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "image": "https://raw.githubusercontent.com/lebe24/fitness-nextui/master/src/assets/nextui.png",
+    "image": "https://res.cloudinary.com/dabqss10z/image/upload/v1703087633/nextui_qu80fy.png",
     "title": "FITNESS APP",
     "tags": ["Backend", "Rest api", "Node.js", "Express.js" , "Typescript", "React"],
     "filterCategory": ["web"],
