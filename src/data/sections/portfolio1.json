@@ -21,12 +21,12 @@
   },
   {
     "id": 3,
-    "image": "https://res.cloudinary.com/starprince-dev/image/upload/w_720/v1688904857/princenweke.com/react-native-naira_r2blsd.png",
-    "title": "NPM PACKAGE: React Native Naira",
-    "tags": ["NPM", "YARN", "React Native", "Currency", "Money"],
-    "filterCategory": ["npmPackages"],
-    "url": "https://www.npmjs.com/package/react-native-naira",
-    "height": 500,
+    "image": "https://res.cloudinary.com/dabqss10z/image/upload/v1701474731/Project/app_1.png",
+    "title": "NFT APP",
+    "tags": ["Flutter", "Aws", "Opensea Api"],
+    "filterCategory": ["mobileApps"],
+    "url": " ",
+    "height": 300,
     "width": 600
   },
   {
@@ -86,6 +86,36 @@
     "tags": ["Next.js", "Material UI", "TailWind-CSS"],
     "filterCategory": ["web"],
     "url": "https://funmate.vercel.app/login",
+    "height": 300,
+    "width": 600
+  },
+  {
+    "id": 10,
+    "image": "https://res.cloudinary.com/dabqss10z/image/upload/v1701474937/Project/app_4.png",
+    "title": "The Tailand - Resturants",
+    "tags": ["React", "Material UI", "TailWind-CSS"],
+    "filterCategory": ["web"],
+    "url": " ",
+    "height": 300,
+    "width": 600
+  },
+  {
+    "id": 11,
+    "image": "https://res.cloudinary.com/dabqss10z/image/upload/v1701474731/Project/app_2.png",
+    "title": "crypto checker - Application",
+    "tags": ["Flutter", "Coingecko Api"],
+    "filterCategory": ["mobileApps"],
+    "url": " ",
+    "height": 300,
+    "width": 600
+  },
+  {
+    "id": 11,
+    "image": "https://download.cocos.com/CocosPortal/image/ef247c12bcd34db0879354474bba80a1/ef247c12bcd34db0879354474bba80a1.jpg",
+    "title": "cocos - 2d games",
+    "tags": ["HTML", "Javascript"],
+    "filterCategory": ["web"],
+    "url": "https://www.cocos.com/en",
     "height": 300,
     "width": 600
   }
