@@ -22,7 +22,7 @@ const Footer = () => {
             <div className="cont">
               <div className="logo">
                 <a href="#0">
-                <h6 className="portfolio-logo">PRINCE NWEKE</h6>
+                <h6 className="portfolio-logo">EMMANUEL</h6>
                   {/* <img src={`${appData.lightLogo}`} alt="" /> */}
                 </a>
               </div>
@@ -30,12 +30,12 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a href="mailto:princeagezinweke@gmail.com">
-                      <span>Email : </span> Princeagezinweke@gmail.com
+                      <span>Email : </span> Emmanuel.philipel@yahoo.com
                     </a>
                   </li>
                   <li>
                     <a href="tel:+2349024847299">
-                      <span>Phone : </span> (+234) 902 484 7299
+                      <span>Phone : </span> (+44) 744 835 4050
                     </a>
                   </li>
                 </ul>
@@ -43,16 +43,16 @@ const Footer = () => {
               <div className="social-icon">
                 <h6 className="custom-font stit simple-btn">Follow Me</h6>
                 <div className="social">
-                  <a target="_blank" rel="noreferrer" href="https://github.com/starprince7/" className="icon">
+                  <a target="_blank" rel="noreferrer" href="https://github.com/lebe24" className="icon">
                     <i className="fab fa-github"></i>
                   </a>
-                  <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/prince-nweke-295a5b191/" className="icon">
+                  <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/emmanuelphilipel" className="icon">
                     <i className="fab fa-linkedin"></i>
                   </a>
-                  <a target="_blank" rel="noreferrer" href="https://twitter.com/dev_starprince" className="icon">
+                  <a target="_blank" rel="noreferrer" href="https://twitter.com/emmanuellebe24" className="icon">
                     <i className="fab fa-twitter"></i>
                   </a>
-                  <a target="_blank" rel="noreferrer" href="https://www.instagram.com/devstarprince/" className="icon">
+                  <a target="_blank" rel="noreferrer" href="https://www.instagram.com/" className="icon">
                     <i className="fab fa-instagram"></i>
                   </a>
                 </div>
@@ -63,7 +63,7 @@ const Footer = () => {
         </div>
         <div className="copyrights text-center">
           <p>
-            © 2022 - {new Date().getFullYear()} <a href="#0" className="portfolio-logo-footer"> PRINCE NWEKE</a>
+            © 2022 - {new Date().getFullYear()} <a href="#0" className="portfolio-logo-footer"> LEBE PAGE</a>
           </p>
         </div>
       </div>

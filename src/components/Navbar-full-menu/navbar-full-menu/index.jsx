@@ -71,7 +71,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
 
                   <li>
                     <div className="o-hidden">
-                      <Link href="/about-me">
+                      <Link href="https://github.com/lebe24">
                         <a className="link">
                           <span className="nm">02.</span>About
                         </a>
@@ -79,7 +79,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
                     </div>
                   </li>
 
-                  <li>
+                  {/* <li>
                     <div className="o-hidden">
                       <Link href="/blog">
                         <a className="link">
@@ -87,7 +87,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
                         </a>
                       </Link>
                     </div>
-                  </li>
+                  </li> */}
 
                   <li>
                     <div className="o-hidden">
@@ -106,7 +106,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
                       </Link>
                     </div>
                   </li>
-                  <li>
+                  {/* <li>
                     <div className="o-hidden">
                       <Link href="/resume/Prince_Nweke_Resume_July.pdf">
                         <a className="link">
@@ -114,7 +114,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
                         </a>
                       </Link>
                     </div>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
