@@ -37,10 +37,10 @@ class MyDocument extends Document {
             offering practical solutions to people and small
             enterprises."
           />
-          <meta
+          {/* <meta
             name="og:image"
             content="https://res.cloudinary.com/starprince-dev/image/upload/w_700/v1688904351/princenweke.com/prince_white_bg_siqub6.jpg"
-          />
+          /> */}
           <meta name="twitter:card" content="summary_large_image" /> {/* Specifies the type of card for Twitter */}
           <meta name="twitter:site" content="@emmanuellebe24" /> {/* Replace with your Twitter handle */}
           <meta name="twitter:title" content="Emmanuel lebe Amadikwa Software developer" />
