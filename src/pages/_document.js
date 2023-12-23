@@ -53,7 +53,7 @@ class MyDocument extends Document {
             content="https://res.cloudinary.com/starprince-dev/image/upload/w_700/v1688904351/princenweke.com/prince_white_bg_siqub6.jpg"
           /> */}
           <link rel="canonical" href="https://lebepage.vercel.app/" />
-          <link rel="shortcut icon" href="/img/favicon.ico" />
+          <link rel="shortcut icon" href="/img/logo.png" />
           {/* Google Fonts */}
           <link
             href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
